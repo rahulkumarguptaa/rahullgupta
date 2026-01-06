@@ -91,7 +91,7 @@
 />
 
 <h3>📈 My GitHub Stats:-</h3>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rahulkumarguptaa" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rahulkumarguptaa)](https://git.io/streak-stats)
 <!-- <div>
   <img width="47%" src="https://streak-stats.demolab.com?user=rahulkumarguptaa&theme=onedark" />
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=rahulkumarguptaa&show_icons=true&theme=onedark" />
