@@ -60,7 +60,7 @@
 <h3>GeeksForGeeks Stats:</h3>
 
 <div>
-  <img width="38%" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=rahulslg20" />
+  <img width="38%" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=rahulkumarguptaa" />
 </div>
 
 <h3>Languages and Tools:</h3>
