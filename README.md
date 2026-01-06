@@ -3,7 +3,7 @@
 <img align="right" height="25" src="https://komarev.com/ghpvc/?username=rahulkumarguptaa&style=for-the-badge" />
 
 <p>
-  I'm Rahul Kumar Gupta, a Software Engineer and B.E. Computer Science graduate (2024) from Chandigarh University.
+  I am Rahul Kumar Gupta, a Software Engineer working in Tata Consultancy Services and B.E. Computer Science graduate (2024) from Chandigarh University.
   
   I specialize in backend engineering and data systems, with hands-on experience building scalable APIs, microservices, 
   and data pipelines using Scala, Python, Java, and Spring Boot.
@@ -51,21 +51,7 @@
 </p>
 
 <h3>📈 GitHub Stats</h3>
-
-<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rahulkumarguptaa&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahulkumarguptaa&show_icons=true"
     width="48%"
   />
-  <img
-    src="https://streak-stats.demolab.com?user=rahulkumarguptaa&theme=github-dark"
-    width="48%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarguptaa&layout=compact&langs_count=8&theme=github_dark"
-    width="40%"
-  />
-</p>
