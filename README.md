@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
-<img align="right" img height="25" src="https://komarev.com/ghpvc/?username=rahullgupta&style=for-the-badge" />
+<img align="right" img height="25" src="https://komarev.com/ghpvc/?username=rahulkumarguptaa&style=for-the-badge" />
 
 <p>
   I'm Rahul Kumar Gupta, a B.E. Computer Science 2024 Graduate from Chandigarh University. 
@@ -91,8 +91,9 @@
 />
 
 <h3>📈 My GitHub Stats:-</h3>
-<div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rahulkumarguptaa" alt="GitHub Streak" /></a>
+<!-- <div>
   <img width="47%" src="https://streak-stats.demolab.com?user=rahulkumarguptaa&theme=onedark" />
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=rahulkumarguptaa&show_icons=true&theme=onedark" />
 </div>
-<img width="40%" style="margin: 5px 30%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarguptaa&layout=compact&theme=onedark" />
+<img width="40%" style="margin: 5px 30%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarguptaa&layout=compact&theme=onedark" /> -->
